@@ -1,0 +1,28 @@
+site_name: Repflux Docs
+site_url: https://docs.repflux.app
+site_description: Documentation for Repflux, your workout partner.
+site_author: aryxs3m
+repo_url: https://github.com/aryxs3m/repflux-app
+repo_name: repflux-app
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: red
+    accent: red
+  favicon: assets/favicon.png
+
+nav:
+  - Home: index.md
+  - Installation and Upgrade:
+      - Docker Compose: installation-and-upgrades/docker.md
+      - Native (NGINX + PHP-FPM): installation-and-upgrades/native.md
+  - Configuration: configuration.md
+#  - API:
+#      - Overview: api/overview.md
+#      - API documentation: api/documentation.md
+#  - Webhooks:
+#      - Overview: webhooks/overview.md
+#      - Examples:
+#            - Discord: webhooks/examples/discord.md
+#            - Home Assistant: webhooks/examples/home-assistant.md
