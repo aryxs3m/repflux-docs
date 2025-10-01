@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://docs.repflux.app/</loc>
+         <lastmod>2025-10-01</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.repflux.app/configuration/</loc>
+         <lastmod>2025-10-01</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.repflux.app/api/overview/</loc>
+         <lastmod>2025-10-01</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.repflux.app/installation-and-upgrades/docker/</loc>
+         <lastmod>2025-10-01</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.repflux.app/installation-and-upgrades/native/</loc>
+         <lastmod>2025-10-01</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.repflux.app/webhooks/overview/</loc>
+         <lastmod>2025-10-01</lastmod>
+    </url>
+</urlset>
